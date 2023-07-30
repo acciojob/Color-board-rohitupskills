@@ -1,1 +1,51 @@
 /*  your css code here. If applicable */
+.color-board{
+	width:800px;
+	display:flex;
+	flex-wrap:wrap;
+}
+.box1{
+	height:100px;
+	width:100px;
+	border:2px solid;
+	margin:1px;
+}
+.color1:hover{
+	background-color:red;
+}
+.color2:hover{
+	background-color:black;
+}
+.color3:hover{
+	background-color:blue;
+}
+.color4:hover{
+	background-color:indianred;
+}
+.color5:hover{
+	background-color:greenyellow;
+}
+.color6:hover{
+	background-color:orangered;
+}
+.color7:hover{
+	background-color:palevioletred;
+}
+.color8:hover{
+	background-color:mediumvioletred;
+}
+.color9:hover{
+	background-color:skyblue;
+}
+.color10:hover{
+	background-color:darkblue;
+}
+.color11:hover{
+	background-color:aliceblue;
+}
+.color12:hover{
+	background-color:lightblue;
+}
+/* .box1:hover{
+	background-image:linear-gradient(to top,orange,white,green);
+} */
