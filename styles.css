@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-.color-board{
+.container{
 	width:800px;
 	display:flex;
 	flex-wrap:wrap;
 }
-.box1{
+.square{
 	height:100px;
 	width:100px;
 	border:2px solid;
